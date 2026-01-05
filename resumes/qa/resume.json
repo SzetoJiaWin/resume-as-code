@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "Szeto Jia Win",
+    "label": "Game QA Lead",
+    "email": "kennyszeto98@gmail.com",
+    "phone": "+60194134287",
+    "website": "https://www.linkedin.com/in/szeto-jia-win/",
+    "summary": "Game QA Lead with 5+ years of experience, leading QA teams, building efficient QA pipelines, and improving overall testing workflows. Skilled in coordinating with cross-functional teams, managing bug tracking, and ensuring full test coverage across development cycles. Focused on delivering stable, high-quality game builds on schedule across PC, Mobile and Consoles.",
+    "location": {
+      "country": "Malaysia"
+    }
+  },
+  "work": [
+    {
+      "company": "Ammobox Studios",
+      "position": "Game QA Lead",
+      "startDate": "2023-09",
+      "summary": "Lead QA initiatives across PC, console, and mobile projects, improving testing workflows and delivery efficiency.",
+      "highlights": [
+        "Spearheaded the design and implementation of a comprehensive QA pipeline, streamlining testing and issue tracking",
+        "Led a team of QA testers across multiple projects ensuring consistent standards and on-time milestone delivery",
+        "Utilized tracking tools to log, monitor, and verify issues with high-quality, reproducible bug reports",
+        "Analyzed test data to produce QA status reports, defect trends, and regression risk assessments",
+        "Defined test plans, test cases, and strategies across PC, console, and mobile platforms",
+        "Mentored junior QA staff and introduced targeted online training and upskilling initiatives",
+        "Coordinated playtesting events and triaged player-reported bugs for timely resolution"
+      ]
+    },
+    {
+      "company": "Shani Entertainment",
+      "position": "Game QA Specialist",
+      "startDate": "2022-04",
+      "endDate": "2022-12",
+      "summary": "QA specialist focused on in-game testing and test case maintenance for NFT crypto title 'Tapwar'.",
+      "highlights": [
+        "Logged and tested critical bugs for the NFT crypto game 'Tapwar' and provided actionable feedback",
+        "Reviewed and optimized legacy test cases to match current features and QA standards",
+        "Authored comprehensive test cases for new features",
+        "Mentored new QA members during probation to accelerate onboarding"
+      ]
+    },
+    {
+      "company": "Larian Studios",
+      "position": "Intermediate Game QA",
+      "startDate": "2020-02",
+      "endDate": "2022-02",
+      "summary": "Contributed to QA on major titles and managed critical path documentation and playtests.",
+      "highlights": [
+        "Worked on Divinity: Original Sin 2 and Baldur's Gate 3",
+        "Promoted from Junior to Intermediate QA within 10 months",
+        "Logged high-priority bugs and provided clear, actionable feedback to developers",
+        "Managed and updated Critical Paths and collaborated closely with scripters",
+        "Researched internal QA tools and delivered a presentation that improved workflow efficiency",
+        "Organized and conducted playtesting sessions"
+      ]
+    },
+    {
+      "company": "Streamline Studios",
+      "position": "Game QA (Intern)",
+      "startDate": "2019-05",
+      "endDate": "2019-08",
+      "summary": "Supported rapid iteration through sanity and ad-hoc testing while assisting playtest logistics.",
+      "highlights": [
+        "Performed sanity and ad-hoc testing to support build stability",
+        "Assisted in organizing playtesting sessions and capturing player feedback",
+        "Started learning compliance testing for PlayStation and Nintendo platforms"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Limkokwing University College of Creative Technology",
+      "area": "Game Technology",
+      "studyType": "",
+      "startDate": "2016",
+      "location": "Cyberjaya",
+      "summary": "Designed and tested two game projects: 'Dungeon of Dread' and 'High School Rumble'. 'Dungeon of Dread' is available at https://sakti-nash23.itch.io/dungeon-of-dread"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Tools & Software",
+      "keywords": [
+        "OBS Studio",
+        "Google Docs",
+        "Confluence",
+        "Jira",
+        "Notion"
+      ]
+    },
+    {
+      "name": "Game Engines",
+      "keywords": [
+        "Unreal Engine",
+        "Unity"
+      ]
+    },
+    {
+      "name": "Testing",
+      "keywords": [
+        "Test Case Design",
+        "Regression Testing",
+        "Ad-hoc Testing",
+        "Compliance Testing (Xbox/PS4/Nintendo Switch)",
+        "Playtest Coordination"
+      ]
+    },
+    {
+      "name": "Processes & Methods",
+      "keywords": [
+        "QA Documentation",
+        "Team Leadership",
+        "Cross-Functional Communication",
+        "Agile/Scrum",
+        "PC/Mobile/Console QA"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English"
+    },
+    {
+      "language": "Chinese"
+    },
+    {
+      "language": "Malay"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "MasterClass Software Testing with Jira & Agile - Be a QA Lead"
+    },
+    {
+      "title": "ISTQB Certified Tester - Foundation Level - Agile Extension"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Dungeon of Dread",
+      "description": "Student project; download: https://sakti-nash23.itch.io/dungeon-of-dread"
+    },
+    {
+      "name": "High School Rumble",
+      "description": "Student project"
+    }
+  ]
+}
