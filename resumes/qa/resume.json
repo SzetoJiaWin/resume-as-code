@@ -5,26 +5,40 @@
     "email": "kennyszeto98@gmail.com",
     "phone": "+60194134287",
     "website": "https://www.linkedin.com/in/szeto-jia-win/",
-    "summary": "Game QA Lead with 5+ years of experience, leading QA teams, building efficient QA pipelines, and improving overall testing workflows. Skilled in coordinating with cross-functional teams, managing bug tracking, and ensuring full test coverage across development cycles. Focused on delivering stable, high-quality game builds on schedule across PC, Mobile and Consoles.",
-    "location": {
-      "country": "Malaysia"
-    }
+    "summary": "Game QA Lead with 6 years of experience, with 4 AAA titles shipped which includes leading the QA team for 'Red Dead Redemption (2025)'. Experienced in leading QA teams, building efficient QA pipelines, and improving testing workflows. Skilled in coordinating with cross-functional teams, managing bug tracking, and ensuring full test coverage across development cycles. Focused on delivering stable, high-quality game builds on schedule across PC, Mobile and Consoles.",
+    "location": "Malaysia"
   },
   "work": [
+    {
+      "company": "Double Eleven",
+      "position": "QA Lead (Lv 1)",
+      "startDate": "2025-07",
+      "endDate": "Current",
+      "summary": "Led a distributed QA team to ensure release quality for 'Red Dead Redemption'.",
+      "highlights": [
+        "Led a distributed QA team across multiple timezones to validate release readiness for 'Red Dead Redemption (2025)'",
+        "Coordinated daily QA operations, sprint priorities, and cross-timezone handovers to maintain continuous testing coverage",
+        "Served as the primary liaison between QA, producers, and engineering to triage and resolve critical issues",
+        "Established mentorship and growth opportunities that resulted in promotions of key QA team members",
+        "Defined release quality criteria and led verification efforts contributing to a high-quality launch",
+        "Games worked on: 'Red Dead Redemption (2025)' , 'Unannounced Game'"
+      ]
+    },
     {
       "company": "Ammobox Studios",
       "position": "Game QA Lead",
       "startDate": "2023-09",
+      "endDate": "2025-06",
       "summary": "Lead QA initiatives across PC, console, and mobile projects, improving testing workflows and delivery efficiency.",
       "highlights": [
         "Spearheaded the design and implementation of a comprehensive QA pipeline, streamlining testing and issue tracking",
         "Led a team of QA testers across multiple projects ensuring consistent standards and on-time milestone delivery",
         "Utilized tracking tools to log, monitor, and verify issues with high-quality, reproducible bug reports",
         "Analyzed test data to produce QA status reports, defect trends, and regression risk assessments",
-        "Defined test plans, test cases, and strategies across PC, console, and mobile platforms",
+        "Defined test plans, test cases, and strategies across PC and mobile platforms",
         "Mentored junior QA staff and introduced targeted online training and upskilling initiatives",
         "Coordinated playtesting events and triaged player-reported bugs for timely resolution",
-        "Games worked on include 'Eximius - Seize the Frontline (FPS Strategy Hybrid)', 'Chronoforge (Action RPG)', and 'IP 360 (Metaverse)'"
+        "Games worked on: 'Eximius - Seize the Frontline (FPS Strategy Hybrid)', 'Chronoforge (Action RPG)', and 'IP 360 (Metaverse)'"
       ]
     },
     {
@@ -38,7 +52,7 @@
         "Reviewed and optimized legacy test cases to match current features and QA standards",
         "Authored comprehensive test cases for new features",
         "Mentored new QA members during probation to accelerate onboarding",
-        "Games worked on include 'Tapwar(NFT Crypto Puzzle Game)'"
+        "Games worked on: 'Tapwar(NFT Crypto Puzzle Game)', 'Monsta Infinite'"
       ]
     },
     {
@@ -48,14 +62,14 @@
       "endDate": "2022-02",
       "summary": "Contributed to QA on major titles and managed critical path documentation and playtests.",
       "highlights": [
-        "Worked on Divinity: Original Sin 2 and Baldur's Gate 3",
         "Promoted from Junior to Intermediate QA within 10 months",
-        "Logged high-priority bugs and provided clear, actionable feedback to developers",
-        "Managed and updated Critical Paths and collaborated closely with scripters",
+        "Logged high-priority bugs and provided clear Method of Reproduction to help developers isolate issues quickly",
+        "Managed and updated Critical Paths while collaborating closely with scripters to ensure full coverage",
         "Researched internal QA tools and delivered a presentation that improved workflow efficiency",
-        "Organized and conducted playtesting sessions",
-        "Games worked on include 'Divinity Original Sin 2' and 'Baldur's Gate 3'"
-
+        "Organized and conducted playtesting sessions, gathering valuable player feedback",
+        "Provided concise, actionable QA feedback that was accepted and implemented in the game, helping improve stability and gameplay",
+        "Collaborated with designers and developers to refine mechanics based on QA suggestions that were shipped in updates",
+        "Games worked on: 'Divinity Original Sin 2' and 'Baldur's Gate 3'"
       ]
     },
     {
@@ -68,7 +82,7 @@
         "Performed sanity and ad-hoc testing to support build stability",
         "Assisted in organizing playtesting sessions and capturing player feedback",
         "Started learning compliance testing for PlayStation and Nintendo platforms",
-        "Games worked on include 'Nightstream (Mobile Endless Runner)','Sniper Ghost Warrior Contracts (FPS)', and 'Bake'N Switch (Party Game)'"
+        "Games worked on:'Nightstream (Mobile Endless Runner)','Sniper Ghost Warrior Contracts (FPS)', and 'Bake'N Switch (Party Game)'"
       ]
     }
   ],
@@ -88,10 +102,14 @@
       "name": "Tools & Software",
       "keywords": [
         "OBS Studio",
-        "Google Docs",
+        "Google Docs/Sheets",
         "Confluence",
+        "Slack",
+        "Microsoft Teams",
         "Jira",
-        "Notion"
+        "Notion",
+        "github",
+        "Team City"
       ]
     },
     {
@@ -108,7 +126,12 @@
         "Regression Testing",
         "Ad-hoc Testing",
         "Compliance Testing (Xbox/PS4/Nintendo Switch)",
-        "Playtest Coordination"
+        "Playtest Coordination",
+        "Test Planning & Strategy",
+        "Test Automation Strategy",
+        "Performance & Load Testing",
+        "Risk-based Testing",
+        "Test Metrics & Reporting"
       ]
     },
     {
@@ -117,38 +140,23 @@
         "QA Documentation",
         "Team Leadership",
         "Cross-Functional Communication",
-        "Agile/Scrum",
-        "PC/Mobile/Console QA"
+        "Agile/Scrum Methodologies",
+        "PC/Mobile/Console QA",
+        "Release Management",
+        "Process Improvement",
+        "CI/CD Integration",
+        "Stakeholder Communication",
+        "Mentorship & Coaching",
+        "Incident Triage"
       ]
     }
-  ],
-  "languages": [
+    ,
     {
-      "language": "English"
-    },
-    {
-      "language": "Chinese"
-    },
-    {
-      "language": "Malay"
-    }
-  ],
-  "certificates": [
-    {
-      "title": "MasterClass Software Testing with Jira & Agile - Be a QA Lead"
-    },
-    {
-      "title": "ISTQB Certified Tester - Foundation Level - Agile Extension"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Dungeon of Dread",
-      "description": "Student project; download: https://sakti-nash23.itch.io/dungeon-of-dread"
-    },
-    {
-      "name": "High School Rumble",
-      "description": "Student project"
+      "name": "Certificates/Qualifications",
+      "keywords": [
+        "MasterClass Software Testing with Jira & Agile -Be a QA Lead",
+        "ISTQB Certified Tester - Foundation Level - Agile Extension"
+      ]
     }
   ]
 }
