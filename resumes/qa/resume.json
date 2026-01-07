@@ -160,5 +160,15 @@
         "ISTQB Certified Tester - Foundation Level - Agile Extension"
       ]
     }
+    ,
+    {
+      "name": "Language Proficiency",
+      "keywords": [
+        "English — Proficient",
+        "Chinese — Decent",
+        "Malay — Decent",
+        "Japanese — Basic understanding"
+      ]
+    }
   ]
 }
