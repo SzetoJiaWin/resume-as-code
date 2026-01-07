@@ -7,7 +7,9 @@
     "website": "https://www.linkedin.com/in/szeto-jia-win/",
     "summary": "Game QA Lead with 6 years of experience, with 4 AAA titles shipped. Lead an experience team of QA in the latest release of 'Red Dead Redemption (2025)'. Experienced in building and leading QA teams, creating efficient QA pipelines, and optimizing testing workflows. Skilled in coordinating with cross-functional teams, managing bug tracking, and ensuring full test coverage across development cycles. Focused on delivering stable, high-quality game builds on schedule across PC, Mobile and Consoles.",
     "location": {
-      "country": "Malaysia"
+      "city": "Cyberjaya",
+      "country": "Malaysia",
+      "countryCode": "MY"
     }
   },
   "work": [
@@ -15,14 +17,13 @@
       "company": "Double Eleven",
       "position": "QA Lead (Lv 1)",
       "startDate": "2025-07",
-      "endDate": "Present",
       "summary": "Led a distributed QA team to ensure release quality for 'Red Dead Redemption'.",
       "highlights": [
         "Led a distributed QA team across multiple timezones to validate release readiness for 'Red Dead Redemption (2025)'",
         "Coordinated daily QA operations, sprint priorities, and cross-timezone handovers to maintain continuous testing coverage",
         "Served as the primary liaison between QA, producers, and engineering to triage and resolve critical issues",
         "Established mentorship and growth opportunities that resulted in promotions of key QA team members",
-        "Defined release quality criteria and led verification efforts contributing to a high-quality launch",
+        "Defined release quality criteria and led verification efforts contributing to a high-quality launch"
       ]
     },
     {
