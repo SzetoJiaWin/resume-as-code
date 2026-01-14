@@ -110,8 +110,8 @@
         "Microsoft Teams",
         "Jira",
         "Notion",
-        "github",
-        "Team City"
+        "GitHub",
+        "TeamCity"
       ]
     },
     {
@@ -163,10 +163,10 @@
     {
       "name": "Language Proficiency",
       "keywords": [
-        "English — Proficient",
-        "Chinese — Decent",
-        "Malay — Decent",
-        "Japanese — Basic understanding"
+        "English — Native Proficiency",
+        "Chinese — Conversational Proficiency",
+        "Malay — Fundamental Knowledge",
+        "Japanese — Basic Knowledge"
       ]
     }
   ]
