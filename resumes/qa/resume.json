@@ -130,7 +130,6 @@
         "Compliance Testing (Microsoft/Sony/Nintendo)",
         "Playtest Coordination",
         "Test Planning & Strategy",
-        "Test Automation Strategy",
         "Performance & Load Testing",
         "Risk-based Testing",
         "Test Metrics & Reporting"
@@ -149,7 +148,7 @@
         "CI/CD Integration",
         "Stakeholder Communication",
         "Mentorship & Coaching",
-        "Incident Triage"
+        "Defect Triaging"
       ]
     }
     ,
